@@ -13,8 +13,15 @@ FileNuke es una herramienta ideal para realizar un borrado seguro de datos, ya s
 
 
 ## Uso
+
+Primero, asignaremos permisos al programa con:
+
+```bash
+sudo chmod +x fileNuke.sh
+```
+
 Ejecutaremos el programa añadiéndole uno o más ficheros, de la siguiente manera:
 
 ```
-./fileNuke <archivo1> <archivo2> ... <archivo3>
+./fileNuke.sh <archivo1> <archivo2> ... <archivo3>
 ```
