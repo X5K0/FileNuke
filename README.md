@@ -1,5 +1,7 @@
 <h1 align="center">File Nuke</h1>
 
+[![code with hearth by X5K0](https://img.shields.io/badge/Scripted%20with%20%E2%99%A5%20by-X5K0-ff8223.svg)](https://github.com/X5K0)
+
 # ![fileNuke](https://github.com/X5K0/FileNuke/blob/main/FileNuke.png)
 
 # ¿Qué es FileNuke?
